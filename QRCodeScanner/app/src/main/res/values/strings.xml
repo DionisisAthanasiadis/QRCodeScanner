@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QRCodeScanner</string>
+    <string name="delete_location">Delete Location</string>
+    <string name="qr_content">QR Content</string>
+    <string name="lat">Lat:</string>
+    <string name="lng">Lng:</string>
+    <string name="timestamp">Timestamp:</string>
+</resources>
