@@ -4,8 +4,5 @@ The app features Login and Register activities for user authentication via Fireb
 Collaboration with @AlifragkisArtemios                                                                                                                                
 
 ![Screen](https://github.com/user-attachments/assets/0e614a1c-ef82-4391-8096-2dfb1c6d7ce0)
-
-<img width="530" alt="Screen1" src="https://github.com/user-attachments/assets/894476ae-a0a4-41bd-a8cf-e3ae3b2d5dad">
-<img width="530" alt="Screen2" src="https://github.com/user-attachments/assets/e508d0f5-a47a-4021-a14e-0e243dd96c92">
 <img width="530" alt="Screen3" src="https://github.com/user-attachments/assets/a4329203-c32a-4fa3-8f0a-2a62903fdbe9">
 
