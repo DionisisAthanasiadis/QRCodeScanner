@@ -1,11 +1,8 @@
-# QRCodeScanner
+<img width="276" alt="Pic5" src="https://github.com/user-attachments/assets/d04956e7-adee-41cb-8008-1d2da7ac39d1"># QRCodeScanner
 The app features Login and Register activities for user authentication via Firebase. It includes a scanning tool to view locations and explore maps using OpenStreetMap. Compatible with Android versions Jellyfish and up, the app also serves as an alternative GPS if a car’s GPS fails, helping users navigate back to familiar places.
 
 Collaboration with @AlifragkisArtemios
 
-<img width="273" alt="Pic6" src="https://github.com/user-attachments/assets/7308dba0-a008-4d11-aad3-f661fe15fa45">
-<img width="273" alt="Pic5" src="https://github.com/user-attachments/assets/c83a203f-580f-4a7f-8ac3-07d2fbdf7bf0">
-<img width="273" alt="Pic4" src="https://github.com/user-attachments/assets/751a4552-7de5-4fe5-b916-34d3cc64f77a">
-<img width="273" alt="Pic3" src="https://github.com/user-attachments/assets/fe99c91f-6e14-4631-8e59-c9422c515686">
-<img width="273" alt="Pic2" src="https://github.com/user-attachments/assets/d65f2611-8195-429b-8cef-5bba277bf970">
-<img width="273" alt="Pic1" src="https://github.com/user-attachments/assets/1b911885-0fa0-4359-bb42-6df9f67b964d">
+![Screen3](https://github.com/user-attachments/assets/75ab896d-ae42-47f2-87d6-b98a1be02d5c)
+![Screen2](https://github.com/user-attachments/assets/3e7b4770-ac1e-4b01-abee-ccca1fc9c0ad)
+![Screen1](https://github.com/user-attachments/assets/6c129019-fc0f-4ac4-8bf7-9b42a318b160)
